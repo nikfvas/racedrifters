@@ -1,0 +1,1 @@
+rsync -av --delete ~/racecar-racedrifters/racecar-racedrifters/study sarantos.no-ip.org:/var/www/html/
